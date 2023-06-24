@@ -86,14 +86,12 @@
 }
 
 .btn {
-  
   cursor: pointer;
-
   display: inline-flex;
-align-items: flex-start;
-gap: 10px;
-border-radius: 32px;
-background: #2C49FE;
+  align-items: flex-start;
+  gap: 10px;
+  border-radius: 32px;
+  background: #2C49FE;
 }
 
 .b-radius {
@@ -147,8 +145,8 @@ nav ul {
   padding-bottom: 48px;
 }
 
-.Open-btn{
-color: #2C49FE;
+.Open-btn {
+  color: #2C49FE;
 }
 
 .menu-btn {
@@ -166,7 +164,7 @@ color: #2C49FE;
     min-height: 100vh;
     justify-content: center;
     align-items: center;
-    transition: all 1000ms linear;
+    transition: all 1500ms linear;
 
   }
 
@@ -365,10 +363,15 @@ nav {
     padding-left: 12px;
     padding-right: 12px;
   }
- 
-  .evntimg1{
-    width: 30%;
+
+  .evntimg1 {
+    width: 40%;
   }
+
+  .evntimg2 {
+    width: 70%;
+  }
+
 
 }
 
