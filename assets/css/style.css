@@ -26,7 +26,8 @@
   margin-right: -12px;
 
 }
-.mt-10{
+
+.mt-10 {
   margin-top: 30px;
 }
 
@@ -118,7 +119,7 @@
   font-family: Poppins;
   font-weight: 700;
   line-height: 135%;
- 
+
 }
 
 .free1 {
@@ -289,14 +290,12 @@ nav {
 
 }
 
-.para {
+.paragraph2 {
   font-family: 'Poppins';
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
-  /* line-height: 20px; */
   color: #FFFFFF;
-  max-width: 300px;
   margin-bottom: 15px;
   margin-top: 20px;
 
@@ -340,16 +339,17 @@ nav {
   margin-bottom: 44px;
 }
 
-.service  {
+.service {
   font-family: 'Poppins';
   font-weight: 700;
   font-size: 14px;
   color: #FFFFFF;
   align-items: center;
 }
-.imglogo{
+
+.imglogo {
   width: 70px;
-height: 60px;
+  height: 60px;
 }
 
 @media (min-width:576px) {
@@ -409,6 +409,9 @@ height: 60px;
     width: 58.33%;
     padding-left: 12px;
     padding-right: 12px;
+  }
+  .paragraph2{
+    max-width: 320px;
   }
 }
 
