@@ -110,8 +110,6 @@
 .line1 {
   margin-top: 30px;
   height: 0px;
-
-
 }
 
 .event1 {
@@ -374,9 +372,6 @@ nav {
   .evntimg2 {
     width: 70%;
   }
- 
-
-
 }
 
 @media (min-width:768px) {
@@ -436,7 +431,7 @@ nav {
     top: 0;
     right: -800px;
     width: 100%;
-    background-color: rgb(16, 196, 227);
+    background-color: #f4b38b;
     min-height: 100vh;
     justify-content: center;
     align-items: center;
