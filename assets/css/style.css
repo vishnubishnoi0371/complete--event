@@ -164,7 +164,6 @@
   font-family: 'Poppins', sans-serif;
 }
 
-
 .justify-content-between {
   justify-content: space-between;
 }
@@ -278,8 +277,8 @@ nav {
 }
 
 .show-more {
-  font-family: 'Poppins';
-  font-style: normal;
+  /* font-family: 'Poppins';
+  font-style: normal; */
   font-weight: 700;
   font-size: 12px;
   line-height: 150%;
@@ -288,12 +287,11 @@ nav {
   background: rgba(45, 60, 174, 0.53);
   height: 100%;
   width: 100%;
-  display: inline-block;
+   display: inline-block;
   display: flex;
   justify-content: center;
-  align-items: center;
-  padding: 13px;
-
+  align-items: center; 
+  /* padding: 13px; */
 }
 
 .paragraph2 {
